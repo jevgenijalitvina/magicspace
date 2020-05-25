@@ -1,2 +1,2 @@
 # magicspace
-This is my magic space. I can add and edit copy here.
+This is my  space. I can add and edit copy here. I just deleted magic in the first sentence and added an update.
